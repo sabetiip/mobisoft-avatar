@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.9.1)
+  - TagListView (1.4.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - TagListView (~> 1.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - TagListView
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  TagListView: a1c236d17960a0cf64156725a76ce6d73ebce2be
+
+PODFILE CHECKSUM: 329b0ed8a0006d95486ab45bd4b61bb1d43f3cb1
+
+COCOAPODS: 1.10.0
